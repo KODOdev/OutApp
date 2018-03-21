@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OutApp", "OutApp\OutApp.vbproj", "{D47FA13D-91A2-471B-A9FF-13A3D5B09058}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D24AF50-CA18-4198-B619-D29BC1172276}"
+	ProjectSection(SolutionItems) = preProject
+		OutApp\ExcelBuilder.vb = OutApp\ExcelBuilder.vb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D47FA13D-91A2-471B-A9FF-13A3D5B09058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47FA13D-91A2-471B-A9FF-13A3D5B09058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47FA13D-91A2-471B-A9FF-13A3D5B09058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47FA13D-91A2-471B-A9FF-13A3D5B09058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

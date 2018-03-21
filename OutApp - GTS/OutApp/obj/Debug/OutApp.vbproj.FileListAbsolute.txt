@@ -1,0 +1,48 @@
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\bin\Debug\OutApp.exe.config
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\bin\Debug\OutApp.exe
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\bin\Debug\OutApp.pdb
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\bin\Debug\OutApp.xml
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.vbprojResolveAssemblyReference.cache
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\Interop.MSExchangeLib.dll
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.vbproj.ResolveComReference.cache
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.FormMain.resources
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.Resources.resources
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.vbproj.GenerateResource.Cache
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.exe
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.xml
+c:\users\05899961180\documents\visual studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.pdb
+C:\Users\05899961180\Documents\Visual Studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.FormWhatToDo.resources
+C:\Users\05899961180\Documents\Visual Studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.FormSaveFolder.resources
+C:\Users\05899961180\Documents\Visual Studio 2015\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.Action.resources
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\bin\Debug\OutApp.exe.config
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\Interop.MSExchangeLib.dll
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.vbproj.ResolveComReference.cache
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.exe
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.xml
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.pdb
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\bin\Debug\OutApp.exe
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\bin\Debug\OutApp.pdb
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\bin\Debug\OutApp.xml
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.vbprojResolveAssemblyReference.cache
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.Action.resources
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.FormMain.resources
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.FormSaveFolder.resources
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.FormWhatToDo.resources
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.Resources.resources
+D:\Developer Files\VSTO\Projects\OutApp - GTS\OutApp\obj\Debug\OutApp.vbproj.GenerateResource.Cache
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\bin\Debug\OutApp.exe.config
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\Interop.MSExchangeLib.dll
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.vbproj.ResolveComReference.cache
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.exe
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.xml
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.pdb
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\bin\Debug\OutApp.exe
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\bin\Debug\OutApp.pdb
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\bin\Debug\OutApp.xml
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.vbprojResolveAssemblyReference.cache
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.Action.resources
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.FormMain.resources
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.FormSaveFolder.resources
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.FormWhatToDo.resources
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.Resources.resources
+\\fnde.gov.br\sistemas\COAME_BASE_DE_DADOS\DEVELOPMENT - COAME\Apps\OutApp - GTS\OutApp\obj\Debug\OutApp.vbproj.GenerateResource.Cache
